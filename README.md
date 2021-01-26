@@ -1,6 +1,15 @@
 # bandRegister
 
 
+
+A simple  Full Rest API to register bands 
+Complete: Get, Post, Put and DELETE
+
+
+
+
+
+
 OPEN IN CMD 
 
 RUN: pipenv shell 
